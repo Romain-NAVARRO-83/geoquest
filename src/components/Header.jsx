@@ -1,6 +1,6 @@
 // import React from 'react';
 
-const Header = () => {
+export default function Header() {
     return (
         <header>
     <nav>
@@ -14,4 +14,4 @@ const Header = () => {
 </header>
     )
 }
-export default Header;
+// Header;
